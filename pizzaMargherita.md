@@ -8,3 +8,4 @@ Piatto preferito
 * pomodoro 
 * acqua 
 * mozzarella
+* sale
